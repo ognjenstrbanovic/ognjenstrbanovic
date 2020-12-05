@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ognjen Štrbanović -- AKA Oggy!
+### Hi there 👋 I'm Oggy!
 
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
