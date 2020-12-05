@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Ognjen Štrbanović -- AKA Oggy!
 
-### Connect with me:
-
-[<img align="left" alt="ognjen-strbanovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
