@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Oggy!
+### Hi there 👋 you can call me Oggy!
 
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
