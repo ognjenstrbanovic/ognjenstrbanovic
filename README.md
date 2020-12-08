@@ -1,4 +1,8 @@
-### Hi there 👋 you can call me Oggy! 😀
+### Hello there! 👋
+### You can call me Oggy! 😀
+### I recently graduated bootcamp...
+![Certificate](https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png)
+### And have been working to land my dream job since!
 
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
