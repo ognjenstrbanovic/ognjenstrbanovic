@@ -1,5 +1,3 @@
-### Hello there!!! 👋
-### My nickname is Ogi!
 ![Rutgers University Bootcamp Certificate](https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png)
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
