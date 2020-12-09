@@ -1,6 +1,8 @@
 ### Hello there 👋, you can call me Ogi!
 #### This summer, I very proudly graduated from Rutgers' Data Science Bootcamp...
+
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
+
 #### Since then, I've been working towards landing my first job as a technologist. With the Coronavirus' effect on the world economy, however, it's been tough sledding; but I certainly continue to work every day to make it happen!
 ##### Right now, I'm reading a Manning publication called "Tiny Python Projects". It's a wonderful way to keep me in Pythonic shape... 😀
 <!--
