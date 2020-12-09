@@ -1,5 +1,5 @@
 ### Hello there! 👋
-### You can call me Oggy! 😀
+### You can call me Ogi! 😀
 ### I recently graduated bootcamp...
 ![Certificate](https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png)
 ### And have been working to land my dream job since!
