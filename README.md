@@ -3,7 +3,7 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
 
-#### I'm currently working towards landing my first job as a technologist...
+#### I'm currently working towards landing my first job as a technologist... In the meantime, I've become a Fintech tutor, and I am very excited about this!
 #### And right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 😀).
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
