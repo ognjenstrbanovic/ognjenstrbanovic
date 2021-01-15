@@ -1,5 +1,5 @@
 ### Hello there 👋, you can call me Ogi!
-#### This summer, I proudly graduated from Rutgers' Data Science Bootcamp...
+#### In the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp...
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
 
