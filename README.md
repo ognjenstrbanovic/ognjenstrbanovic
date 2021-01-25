@@ -1,3 +1,4 @@
+![Hello there.](https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif)
 ### Hello there 👋, you can call me Ogi!
 #### In the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp...
 
