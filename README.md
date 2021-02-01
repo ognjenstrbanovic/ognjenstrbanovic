@@ -1,10 +1,10 @@
 ![Hello there.](https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif)
 ### Hello there 👋, you can call me Ogi!
-#### In the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp...
+#### In the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp... 🎖
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
 
-#### I'm currently working towards landing my first job as a technologist...
+#### I'm currently working towards landing my first job as a technologist... 👨‍💻
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/coding.gif?raw=true)" height="50%" width="50%">
 
@@ -16,8 +16,8 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/blockchain%20GIF.gif" height="50%" width="50%">
 
-#### And right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 😀).
-### Please feel free to email me if you would like to chat about anything at all!
+#### And right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
+### Please feel free to email me if you would like to chat about anything at all! 📧
 
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
