@@ -5,9 +5,6 @@
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
 
 #### I'm currently working towards landing my first job as a technologist/data practitioner... 👨‍💻
-
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/coding.gif?raw=true)" height="25%" width="25%">
-
 #### In the meantime, I'm very excited to announce that I've become a Fintech/Data Viz tutor as of December 2020!
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/fintech%20GIF.gif?raw=true" height="25%" width="25%">
