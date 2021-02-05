@@ -6,15 +6,15 @@
 
 #### I'm currently working towards landing my first job as a technologist/data practitioner... 👨‍💻
 
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/coding.gif?raw=true)" height="50%" width="50%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/coding.gif?raw=true)" height="25%" width="25%">
 
 #### In the meantime, I'm very excited to announce that I've become a Fintech/Data Viz tutor as of December 2020!
 
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/fintech%20GIF.gif?raw=true" height="50%" width="50%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/fintech%20GIF.gif?raw=true" height="25%" width="25%">
 
 #### Blockchain, covered in the FinTech program, is a very  groundbreaking technology with a lot more use than just in cryptocurrency! I'm excited to learn more.
 
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/blockchain%20GIF.gif" height="50%" width="50%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/blockchain%20GIF.gif" height="25%" width="25%">
 
 #### And right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
 
