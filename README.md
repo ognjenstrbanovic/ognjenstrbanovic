@@ -1,4 +1,4 @@
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif" height="50%" width="50%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif" height="39%" width="39%">
 
 ### Hello there 👋, you can call me Ogi!
 #### Fairly recently, in the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp... 🎓
