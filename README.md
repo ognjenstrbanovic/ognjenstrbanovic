@@ -1,10 +1,10 @@
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif" height="45%" width="45%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/hello_there.gif" height="40%" width="40%">
 
 ### Hello there 👋, you can call me Ogi!
 
 #### Fairly recently, in the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp... 🎓
 
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="50%" width="50%">
+<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="55%" width="55%">
 
 #### I'm currently working towards landing my first job as a technologist/data practitioner... 👨‍💻
 
