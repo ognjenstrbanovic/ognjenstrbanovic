@@ -6,7 +6,7 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="55%" width="55%">
 
-#### I'm currently working towards landing my first job as a technologist/data practitioner... 👨‍💻
+#### I'm currently working towards landing my first full-time job as a technologist/data practitioner... 👨‍💻
 
 #### In the meantime, I'm very excited to announce that I've become a Fintech/Data Viz tutor as of December 2020!
 
@@ -16,7 +16,7 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/blockchain%20GIF.gif" height="25%" width="25%">
 
-#### And right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
+#### Also, right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
 
 ### Lastly, please feel free to email me if you would like to chat about anything at all! 📧 Email is to the left (in my bio)!
 
