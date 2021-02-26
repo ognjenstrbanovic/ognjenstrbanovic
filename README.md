@@ -12,10 +12,6 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/fintech%20GIF.gif?raw=true" height="25%" width="25%">
 
-#### Blockchain, covered in the FinTech program, is a very  groundbreaking technology with a lot more use than just in cryptocurrency! I'm excited to learn more.
-
-<img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/blockchain%20GIF.gif" height="25%" width="25%">
-
 #### Also, right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
 
 ### Lastly, please feel free to email me if you would like to chat about anything at all! 📧 Email is to the left (in my bio)!
