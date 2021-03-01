@@ -2,7 +2,7 @@
 
 ### Hello there 👋, you can call me Ogi!
 
-#### Fairly recently, in the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp... 🎓
+#### In the summer of 2020, I proudly graduated from Rutgers' Data Science Bootcamp... 🎓 This was only the appetizer, as my professor would say!
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/O.Strbanovic%20Certificate.png" height="55%" width="55%">
 
