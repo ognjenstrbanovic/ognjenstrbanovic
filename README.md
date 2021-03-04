@@ -12,9 +12,7 @@
 
 <img src="https://github.com/ognjenstrbanovic/ognjenstrbanovic/blob/main/fintech%20GIF.gif?raw=true" height="25%" width="25%">
 
-#### Also, right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
-
-### Lastly, please feel free to email me if you would like to chat about anything at all! 📧 Email is to the left (in my bio)!
+#### Lastly, right now, I am reading a Manning publication called "Tiny Python Projects" (it helps keep me in *Pythonic* shape 🐍😀).
 
 <!--
 **ognjenstrbanovic/ognjenstrbanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
